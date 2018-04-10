@@ -4,10 +4,10 @@ import json
 import time
 
 # Twitter API Keys
-consumer_key = "TxWqhV1iSJUMQM7vtoGWEx1jZ"
-consumer_secret = "aO8ov92ktffAUjVSbJkbDQ4O5fWhoZ02YhrIjGN4ilaCClK75u"
-access_token = "4876379418-s3LnanUre5v4FycRGho3ABsfQoupCwvG6Y1YYex"
-access_token_secret = "fIS72sjmhsIJ0d7jZO15gzREbBK0iU71UcfcYrJc663vP"
+consumer_key = "bKTlaC8L7zYVfowESkdtt8rP3"
+consumer_secret = "gdOTuyrDZuy5NkoEo5tNwcw0EOQDTV1ruIsC9xlWRtO25PI9z4"
+access_token = "983584039410937856-nnjmotaJ3LS9b167WoR9fAVgKSRbpqf"
+access_token_secret = "EF67djB5DwoAZ9Q5w8eTSTqeUZUOQBfuzSXlMgnnwcvfS"
 
 
 # Setup Tweepy API Authentication
