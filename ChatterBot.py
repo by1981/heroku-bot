@@ -7,7 +7,7 @@ import time
 consumer_key = "ImLGT5Pbebk33jYv76ozNt5KB"
 consumer_secret = "alFm0kHzJ3IFhDlNn5Z4ifX4JpzANpqxFgWxHbs4Ewv2kwd8tc"
 access_token = "4876379418-qNp9F4td5lyyefVcE3Q7eNNNiJtFDTClHncUuRt"
-access_token_secret = "dCZ80uNRbFDjxdU2EckmNiSckdoATach6Q8zb7YYYE5ER"
+access_token_secret = "tZA2bgIXF7OzNzPLMJImYvJ5AQ90cLkPYLsdPRP3bBnNC"
 
 
 # Setup Tweepy API Authentication
